@@ -1,0 +1,7 @@
+{
+    "rollno":"21CD056",
+    "name":"Maheshwaran",
+    "regno":"921721115027",
+    "cgpa":"8.358",
+    "dept":"CSD"
+}
